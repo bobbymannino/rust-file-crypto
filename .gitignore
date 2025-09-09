@@ -24,3 +24,6 @@ target
 # Added by cargo
 
 /target
+
+# Encryption key file (security sensitive)
+.rust-file-crypto-key
